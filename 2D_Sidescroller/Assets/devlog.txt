@@ -1,0 +1,6 @@
+dev log notes
+
+added dash attack!
+
+had a huge bug where the camera thought the player was off screen for one frame when the last level started because the variable follows path was initialized to true, fixed by initializing to false
+

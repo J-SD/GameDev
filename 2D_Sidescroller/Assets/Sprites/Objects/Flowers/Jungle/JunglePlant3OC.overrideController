@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JunglePlant3OC
+  m_Controller: {fileID: 9100000, guid: 1fb2408779f3e5544acf63df974e89db, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1ee5ef55e5471f945b393b37e2d41603, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a49049218f8fa51479321dd5ccd477ad, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ead656dbcc0ba624da586ac4041573c2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b2bf1294e55b8bd4e93889774e8972d9, type: 2}
