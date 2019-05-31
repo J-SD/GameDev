@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="56a67af8df4d3063488714c2d5d906b6c79236f3">
+        <dex dex="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_7cdd61fa26f5826d271fc621839300f067bc487b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85c1245c0fcff80d7e0a898ce85bca3cc9116269">
+        <dex dex="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e5a7ab7bbcdda01a9332fd3d9232e0e8ca73fb87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23d80d9bc9cf0f840a9b940426c2ce6f12a4d80">
+        <dex dex="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a0ba69a5c076ba04b634571f4f9e6bd4caa29795\classes.dex" />
+    </item>
+
+</items>

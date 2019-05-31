@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "266768491128",
+    "firebase_url": "https://nimble-7d938.firebaseio.com",
+    "project_id": "nimble-7d938",
+    "storage_bucket": "nimble-7d938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266768491128:android:9b9abefb96e489e8",
+        "android_client_info": {
+          "package_name": "com.TurkeeEntertainment.Nimble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266768491128-daglb5ntc630hh75c6pmuoo7o3ch5nl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCmvlSPaEUgjtMqp2maq_FVsszGyA0NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

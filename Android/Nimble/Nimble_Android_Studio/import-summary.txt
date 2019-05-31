@@ -1,0 +1,124 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\Nimble.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* Nimble\
+* Nimble\AndroidManifest.xml
+* Nimble\assets\
+* Nimble\assets\bin\
+* Nimble\assets\bin\Data\
+* Nimble\assets\bin\Data\Managed\
+* Nimble\assets\bin\Data\Managed\Assembly-CSharp.dll
+* Nimble\assets\bin\Data\Managed\Assembly-CSharp.dll.mdb
+* Nimble\assets\bin\Data\Managed\Mono.Security.dll
+* Nimble\assets\bin\Data\Managed\Mono.Security.dll.mdb
+* Nimble\assets\bin\Data\Managed\System.Core.dll
+* Nimble\assets\bin\Data\Managed\System.Core.dll.mdb
+* Nimble\assets\bin\Data\Managed\System.dll
+* Nimble\assets\bin\Data\Managed\System.dll.mdb
+* Nimble\assets\bin\Data\Managed\UnityEngine.Networking.dll
+* Nimble\assets\bin\Data\Managed\UnityEngine.Networking.dll.mdb
+* Nimble\assets\bin\Data\Managed\UnityEngine.UI.dll
+* Nimble\assets\bin\Data\Managed\UnityEngine.UI.dll.mdb
+* Nimble\assets\bin\Data\Managed\UnityEngine.dll
+* Nimble\assets\bin\Data\Managed\UnityEngine.dll.mdb
+* Nimble\assets\bin\Data\Managed\UnityEngine.xml
+* Nimble\assets\bin\Data\Managed\mscorlib.dll
+* Nimble\assets\bin\Data\Managed\mscorlib.dll.mdb
+* Nimble\assets\bin\Data\PlayerConnectionConfigFile
+* Nimble\assets\bin\Data\Resources\
+* Nimble\assets\bin\Data\Resources\unity_builtin_extra
+* Nimble\assets\bin\Data\level0
+* Nimble\assets\bin\Data\level1
+* Nimble\assets\bin\Data\mainData
+* Nimble\assets\bin\Data\settings.xml
+* Nimble\assets\bin\Data\sharedassets0.assets
+* Nimble\assets\bin\Data\sharedassets1.assets
+* Nimble\assets\bin\Data\sharedassets2.assets.split0
+* Nimble\assets\bin\Data\sharedassets2.assets.split1
+* Nimble\assets\bin\Data\sharedassets2.assets.split10
+* Nimble\assets\bin\Data\sharedassets2.assets.split11
+* Nimble\assets\bin\Data\sharedassets2.assets.split12
+* Nimble\assets\bin\Data\sharedassets2.assets.split13
+* Nimble\assets\bin\Data\sharedassets2.assets.split14
+* Nimble\assets\bin\Data\sharedassets2.assets.split2
+* Nimble\assets\bin\Data\sharedassets2.assets.split3
+* Nimble\assets\bin\Data\sharedassets2.assets.split4
+* Nimble\assets\bin\Data\sharedassets2.assets.split5
+* Nimble\assets\bin\Data\sharedassets2.assets.split6
+* Nimble\assets\bin\Data\sharedassets2.assets.split7
+* Nimble\assets\bin\Data\sharedassets2.assets.split8
+* Nimble\assets\bin\Data\sharedassets2.assets.split9
+* Nimble\assets\bin\Data\splash.png
+* Nimble\assets\bin\Data\unity default resources
+* Nimble\libs\
+* Nimble\libs\armeabi-v7a\
+* Nimble\libs\armeabi-v7a\libmain.so
+* Nimble\libs\armeabi-v7a\libmono.so
+* Nimble\libs\armeabi-v7a\libunity.so
+* Nimble\libs\unity-classes.jar
+* Nimble\libs\x86\
+* Nimble\libs\x86\libmain.so
+* Nimble\libs\x86\libmono.so
+* Nimble\libs\x86\libunity.so
+* Nimble\project.properties
+* Nimble\res\
+* Nimble\res\drawable-xhdpi\
+* Nimble\res\drawable-xhdpi\app_banner.png
+* Nimble\res\drawable\
+* Nimble\res\drawable\app_icon.png
+* Nimble\res\values\
+* Nimble\res\values\strings.xml
+* Nimble\src\
+* Nimble\src\com\
+* Nimble\src\com\TurkeeEntertainment\
+* Nimble\src\com\TurkeeEntertainment\Nimble\
+* Nimble\src\com\TurkeeEntertainment\Nimble\UnityPlayerActivity.java
+* Nimble\src\com\TurkeeEntertainment\Nimble\UnityPlayerNativeActivity.java
+* Nimble\src\com\TurkeeEntertainment\Nimble\UnityPlayerProxyActivity.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\armeabi-v7a\libmain.so => app\src\main\jniLibs\armeabi-v7a\libmain.so
+* libs\armeabi-v7a\libmono.so => app\src\main\jniLibs\armeabi-v7a\libmono.so
+* libs\armeabi-v7a\libunity.so => app\src\main\jniLibs\armeabi-v7a\libunity.so
+* libs\unity-classes.jar => app\libs\unity-classes.jar
+* libs\x86\libmain.so => app\src\main\jniLibs\x86\libmain.so
+* libs\x86\libmono.so => app\src\main\jniLibs\x86\libmono.so
+* libs\x86\libunity.so => app\src\main\jniLibs\x86\libunity.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

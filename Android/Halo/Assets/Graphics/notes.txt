@@ -1,0 +1,2 @@
+mining sim, takes in ores, spits out rocks from back
+ship is moving through space.

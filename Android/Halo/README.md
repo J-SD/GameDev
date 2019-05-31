@@ -1,0 +1,1 @@
+A simple Android game. Can be downloaded to an Android device by copying the .apk file onto device storage. 

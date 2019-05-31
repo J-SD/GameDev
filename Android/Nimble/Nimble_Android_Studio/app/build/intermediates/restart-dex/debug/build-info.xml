@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="834256491599364"
+    token="-7031830033068525852" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="834061899866660"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="834220178217521"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Jacks\Nimble\Nimble\Nimble_Android_Studio\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="834256491599364" />
+
+</instant-run>

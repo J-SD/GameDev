@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://nimble-7d938.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">266768491128</string>
+  <string name="google_storage_bucket" translatable="false">nimble-7d938.appspot.com</string>
+  <string name="project_id" translatable="false">nimble-7d938</string>
+  <string name="google_api_key" translatable="false">AIzaSyDhCmvlSPaEUgjtMqp2maq_FVsszGyA0NQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDhCmvlSPaEUgjtMqp2maq_FVsszGyA0NQ</string>
+  <string name="google_app_id" translatable="false">1:266768491128:android:9b9abefb96e489e8</string>
+  <string name="default_web_client_id" translatable="false">266768491128-daglb5ntc630hh75c6pmuoo7o3ch5nl9.apps.googleusercontent.com</string>
+</resources>
